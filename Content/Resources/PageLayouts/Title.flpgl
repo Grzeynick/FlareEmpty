@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title" BackgroundRepeat="no-repeat" BackgroundImage="none">
+        <Frame X="-96px" Y="-96px" Width="817px" Height="1056px" Flow="decoration0" Right="-97px" Bottom="-96px" BackgroundRepeat="stretch" Anchors="" BackgroundImage="../Images/pies.jpg" />
+        <Frame X="-29px" Y="-55px" Width="683px" Height="163px" Flow="body" Right="-30px" Bottom="756px" />
+    </Page>
+</PageStyles>
